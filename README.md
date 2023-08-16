@@ -22,7 +22,13 @@ This project is a text-based ATM (Automated Teller Machine) simulation built usi
 
 
 ## How to Use
+
   Clone the repository to your local machine.
+  
   Make sure you have Python and SQLite installed.
+  
   Run atm.py to start the ATM simulation.
+  
   Follow the on-screen instructions to create an account, log in, and perform transactions.
+
+### RAHUL KHARE
